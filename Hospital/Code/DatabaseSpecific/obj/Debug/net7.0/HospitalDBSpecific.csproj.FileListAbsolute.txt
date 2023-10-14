@@ -1,0 +1,13 @@
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseSpecific\bin\Debug\net7.0\HospitalDBSpecific.dll.config
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseSpecific\bin\Debug\net7.0\HospitalDBSpecific.deps.json
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseSpecific\bin\Debug\net7.0\HospitalDBSpecific.dll
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseSpecific\bin\Debug\net7.0\HospitalDBSpecific.pdb
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseSpecific\obj\Debug\net7.0\HospitalDBSpecific.csproj.AssemblyReference.cache
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseSpecific\obj\Debug\net7.0\HospitalDBSpecific.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseSpecific\obj\Debug\net7.0\HospitalDBSpecific.AssemblyInfoInputs.cache
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseSpecific\obj\Debug\net7.0\HospitalDBSpecific.AssemblyInfo.cs
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseSpecific\obj\Debug\net7.0\HospitalDBSpecific.csproj.CoreCompileInputs.cache
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseSpecific\obj\Debug\net7.0\HospitalDBSpecific.dll
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseSpecific\obj\Debug\net7.0\refint\HospitalDBSpecific.dll
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseSpecific\obj\Debug\net7.0\HospitalDBSpecific.pdb
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseSpecific\obj\Debug\net7.0\ref\HospitalDBSpecific.dll

@@ -1,0 +1,12 @@
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseGeneric\bin\Debug\net7.0\Hospital.deps.json
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseGeneric\bin\Debug\net7.0\Hospital.dll
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseGeneric\bin\Debug\net7.0\Hospital.pdb
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseGeneric\obj\Debug\net7.0\Hospital.csproj.AssemblyReference.cache
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseGeneric\obj\Debug\net7.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseGeneric\obj\Debug\net7.0\Hospital.AssemblyInfoInputs.cache
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseGeneric\obj\Debug\net7.0\Hospital.AssemblyInfo.cs
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseGeneric\obj\Debug\net7.0\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseGeneric\obj\Debug\net7.0\Hospital.dll
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseGeneric\obj\Debug\net7.0\refint\Hospital.dll
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseGeneric\obj\Debug\net7.0\Hospital.pdb
+C:\Users\SALMA\Downloads\SilverKey Part-time\Hospital\Code\DatabaseGeneric\obj\Debug\net7.0\ref\Hospital.dll
