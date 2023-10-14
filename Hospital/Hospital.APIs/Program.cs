@@ -1,4 +1,5 @@
 using Hospital.DatabaseSpecific;
+using Hospital.EntityClasses;
 using Hospital.Linq;
 using Npgsql;
 using SD.LLBLGen.Pro.DQE.PostgreSql;
@@ -14,14 +15,36 @@ RuntimeConfiguration.ConfigureDQE<PostgreSqlDQEConfiguration>(c =>
 });
 
 var app = builder.Build();
-app.MapGet("/", async () =>
+
+
+app.MapGet("/", async (HttpContext context) =>
 {
-    using (var adapter = new DataAccessAdapter(connectionString))
-    {
-        var metaData = new LinqMetaData(adapter);
-        var count = metaData.Doctor.Count();
-        Console.WriteLine($"Number of students : {count}");
-    }
+    var htmlpage = await File.ReadAllTextAsync("wwwroot/index.html");
+    context.Response.ContentType = "text/html";
+    await context.Response.WriteAsync(htmlpage);
 });
 
+app.MapPost("/add_doctor", async (HttpContext context) =>
+{
+    var firstname = context.Request.Form["firstname"];
+    var lastname = context.Request.Form["lastname"];
+    var email = context.Request.Form["email"];
+    var address = context.Request.Form["address"];
+
+    using (var adapter = new DataAccessAdapter(connectionString))
+    {
+        try
+        {
+            var newDoctor = new DoctorEntity() { FirstName= firstname , LastName = lastname, Email= email , Address = address };
+            adapter.SaveEntity(newDoctor);
+            return Results.Ok("Doctor is added successfully!");
+        }
+        catch (Exception e)
+        {
+            return Results.BadRequest(e.Message);
+        }
+
+    }
+});
+app.UseStaticFiles();
 app.Run();
